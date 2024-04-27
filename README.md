@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SaurabhKumar-97</h1>
-<h3 align="center">I'm Saurabh Kumar, a tech enthusiast on a mission to innovate and collaborate!</h3>
+<h3 align="center">I'm Saurabh Kumar, A tech enthusiast on a mission to innovate and collaborate!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkumar-97&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkumar-97" /> </p>
 
@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **Saurabhkumar09835@gmail.com**
 
-- 📄 Know about my experiences [NA](NA)
+- 📄 Know about my experiences
+- In Sandhar Technologies Ltd. working as Data Analyst/Quality Analyst (18/11 to 26/2/2024 )
+- In Rotzler Services India Pvt. Ltd. working as Quality Analyst/MIS Analyst (03/2024 to Present )
 
 - ⚡ Fun fact **I think i can make any complex topic into easiest way, so that peoples enjoy learning as a fun.**
 
