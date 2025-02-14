@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkumar-97" alt="saurabhkumar-97" /></a> </p>
 
-- 🔭 I’m currently working on **Credit_card_performance_YOY/ Inventory_management_SAG/ Fleet_maintaince_reduction**
+- 🔭 I’m currently working on **Preventive_maintaince_reduction_increase overall productivity**
 
-- 🌱 I’m currently learning **Python,Machine Learning,Power Bi, Azure data factory, Deep Learning, Computer vision and many more**
+- 🌱 I’m currently Working tools like ** SQL,Python,Machine Learning,Power Bi,Advanced excel, and learning Azure data factory, Deep Learning, Computer vision and many more**
 
 - 👨‍💻 All of my projects are available at [@underprocess.com](@underprocess.com)
 
@@ -18,8 +18,8 @@
 - 📫 How to reach me **Saurabhkumar09835@gmail.com**
 
 - 📄 Know about my experiences
-- In Sandhar Technologies Ltd. working as Data Analyst/Quality Analyst (18/11 to 26/2/2024 )
-- In Rotzler Services India Pvt. Ltd. working as Quality Analyst/MIS Analyst (03/2024 to Present )
+- In Sandhar Technologies Ltd. working as Quality Analyst/ MIS analyst (18/11 to 26/2/2024 )
+- In Rotzler Services India Pvt. Ltd. working as Data Analyst (03/2024 to Present )
 
 - ⚡ Fun fact **I think i can make any complex topic into easiest way, so that peoples enjoy learning as a fun.**
 
