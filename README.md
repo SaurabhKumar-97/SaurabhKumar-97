@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkumar-97" alt="saurabhkumar-97" /></a> </p>
 
-- 🔭 I’m currently working on **Preventive_maintaince_reduction_increase overall productivity**
-
 - 🌱 I’m currently Working tools like ** SQL,Python,Machine Learning,Power Bi,Advanced excel, and learning Azure data factory, Deep Learning, Computer vision and many more**
 
 - 👨‍💻 All of my projects are available at [@underprocess.com](@underprocess.com)
